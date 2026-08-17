@@ -157,8 +157,6 @@ This project builds a **centralized churn command center**: one Power BI report 
 
 **Emmanuel Sey Williams**
 📧 williamsemmanuel7382@gmail.com
-🔗 GitHub: [Add your GitHub link here]
-🔗 LinkedIn: [Add your LinkedIn link here]
-📅 2026
+
 
 📊 **Project Status:** Complete
